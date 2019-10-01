@@ -19,5 +19,6 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Web** de la promoc
 * [Marcos Gálvez, Jesús](https://github.com/Jesus-DAW)
 * [Milanes Barroso, Maria Teresa](https://github.com/MteresaMilanes)
 * [Moreno,Aguilera, Javier](https://github.com/javiermorenoaguilera)
+* [Ruiz Jiménez, Antonio](https://github.com/rjantonio/programacion)
 * [Torreblanca Herrero, Ildefonso](https://github.com/ildeth/Programaci-nDaw19-20.git)
 
